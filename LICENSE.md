@@ -1,4 +1,4 @@
-
+instant Addon for Ulysses for macOS - auto-sync and export to PDF is the best Ulysses for macOS addon, featuring auto-sync and export to PDF. Safe, efficient, and optimized for
 
 
 
